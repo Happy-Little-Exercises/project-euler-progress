@@ -1,7 +1,8 @@
 
 <img align="right" src="https://projecteuler.net/profile/mailea.png" />  
 
-# Project Euler *- My Progress*
+# Project Euler
+## My Progress
 
 <!-- 112 Spaces -->
 #### Level: 1/24
