@@ -2,10 +2,10 @@
 ## My Progress
 
 #### Level
-<pre>[                                                                                                               ]</pre>
+<pre>[                                                                                                                ]</pre>
 
 #### Problems Solved
-<pre>[                                                                                                               ]</pre>
+<pre>[                                                                                                                ]</pre>
 
 #### Highest Difficulty Solved
-<pre>[                                                                                                               ]</pre>
+<pre>[                                                                                                                ]</pre>
