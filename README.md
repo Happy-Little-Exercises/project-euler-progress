@@ -1,3 +1,6 @@
+
+<img align="right" src="https://projecteuler.net/profile/mailea.png" />  
+
 # Project Euler
 ## My Progress
 
