@@ -5,11 +5,11 @@
 ## My Progress
 
 <!-- 112 Spaces -->
-#### Level: 1/24
-<pre>[#####                                                                                                           ]</pre>
+#### Level:  
+<img src="https://progressbadges.herokuapp.com/1/24/minimal" width="100%">
 
-#### Problems Solved: 32/626
-<pre>[######                                                                                                          ]</pre>
+#### Problems Solved: 
+<img src="https://progressbadges.herokuapp.com/32/626/minimal" width="100%">
 
-#### Highest Difficulty Solved: 5/100
-<pre>[######                                                                                                          ]</pre>
+#### Highest Difficulty Solved:
+<img src="https://progressbadges.herokuapp.com/5/100/minimal" width="100%">
