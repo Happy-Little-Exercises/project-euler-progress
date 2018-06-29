@@ -6,7 +6,6 @@
 ##### Progress:
 <img src="https://progressbadges.herokuapp.com/43/750/minimal" width="100%">
 
-## Details
 ##### Level:  
 <img src="https://progressbadges.herokuapp.com/1/24" width="100%">
 
