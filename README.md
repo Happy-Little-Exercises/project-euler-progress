@@ -3,7 +3,6 @@
 
 # Project Euler
 
-##### Progress:
 <img src="https://progressbadges.herokuapp.com/43/750/minimal" width="100%">
 
 ##### Level:  
